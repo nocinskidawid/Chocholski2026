@@ -1,0 +1,14 @@
+[
+  {
+    "Title": "Hollow Knight",
+    "Genre": "Platform",
+    "Rating": 10,
+    "Completed": false
+  },
+  {
+    "Title": "League of legends",
+    "Genre": "Moba",
+    "Rating": 100,
+    "Completed": false
+  }
+]

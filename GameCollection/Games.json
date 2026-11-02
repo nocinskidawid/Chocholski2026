@@ -1,0 +1,5 @@
+[
+  {"Title": "The Wither 3", "Genre" : "RPG", "Rating" : 10, "Completed":true},
+  {"Title" : "League of Legends", "Genre" : "Moba", "Rating" : 100, "Completed":false},
+  {"Title" : "Hollow Knight", "Genre" : "Platform", "Rating" : 10, "Completed":true}
+]
