@@ -23,7 +23,7 @@ function App() {
                          Aktualizuje stan niemutowalnie (map + kopia obiektu).
    parametry:            id - identyfikator zdjęcia do aktualizacji
    zwracany typ i opis:  brak
-   autor:                <numer zdającego>
+   autor:                Dawid Nocinski
   *****************************************************/
   const handlePobierz = (id) => {
     setZdjecia((prev) =>

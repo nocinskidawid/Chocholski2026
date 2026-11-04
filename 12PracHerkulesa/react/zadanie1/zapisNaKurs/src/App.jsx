@@ -20,7 +20,7 @@ function App() {
                          oraz nazwę kursu (lub komunikat o błędzie) do konsoli.
    parametry:            e - obiekt zdarzenia formularza
    zwracany typ i opis:  brak
-   autor:                <numer zdającego>
+   autor:                Daeid Nocinski
   *****************************************************/
   const handleZapisz = (e) => {
     e.preventDefault();

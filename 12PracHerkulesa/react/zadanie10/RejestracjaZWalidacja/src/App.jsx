@@ -28,7 +28,7 @@ function App() {
    parametry:            dane - obiekt stanu formularza { login, email, haslo, powtorz }
    zwracany typ i opis:  obiekt z polami loginOk, emailOk, hasloOk, powtorzOk,
                          sila (0–4), etykieta sily i klasa paska postępu
-   autor:                <numer zdającego>
+   autor:                Dawid Nocinski
   *****************************************************/
   const waliduj = (dane) => {
     const loginOk = /^[A-Za-z0-9]{4,}$/.test(dane.login);

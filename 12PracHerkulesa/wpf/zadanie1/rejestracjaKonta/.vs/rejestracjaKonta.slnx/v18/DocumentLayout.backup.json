@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie1\\rejestracjaKonta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1605E12D-D8FD-6B3C-7C33-BE1C2B197635}|rejestracjaKonta\\rejestracjaKonta.csproj|e:\\chocholski\\chocholski2026\\12pracherkulesa\\wpf\\zadanie1\\rejestracjakonta\\rejestracjakonta\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1605E12D-D8FD-6B3C-7C33-BE1C2B197635}|rejestracjaKonta\\rejestracjaKonta.csproj|solutionrelative:rejestracjakonta\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1605E12D-D8FD-6B3C-7C33-BE1C2B197635}|rejestracjaKonta\\rejestracjaKonta.csproj|e:\\chocholski\\chocholski2026\\12pracherkulesa\\wpf\\zadanie1\\rejestracjakonta\\rejestracjakonta\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1605E12D-D8FD-6B3C-7C33-BE1C2B197635}|rejestracjaKonta\\rejestracjaKonta.csproj|solutionrelative:rejestracjakonta\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie1\\rejestracjaKonta\\rejestracjaKonta\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "rejestracjaKonta\\MainWindow.xaml",
+              "ToolTip": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie1\\rejestracjaKonta\\rejestracjaKonta\\MainWindow.xaml",
+              "RelativeToolTip": "rejestracjaKonta\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T10:12:05.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie1\\rejestracjaKonta\\rejestracjaKonta\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "rejestracjaKonta\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie1\\rejestracjaKonta\\rejestracjaKonta\\MainWindow.xaml.cs",
+              "RelativeToolTip": "rejestracjaKonta\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T10:12:03.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

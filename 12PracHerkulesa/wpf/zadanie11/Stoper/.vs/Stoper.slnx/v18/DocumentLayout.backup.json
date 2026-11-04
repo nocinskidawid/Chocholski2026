@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie11\\Stoper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D4FF71-2719-CF9D-6C87-AB73E6570BF0}|Stoper\\Stoper.csproj|e:\\chocholski\\chocholski2026\\12pracherkulesa\\wpf\\zadanie11\\stoper\\stoper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D4FF71-2719-CF9D-6C87-AB73E6570BF0}|Stoper\\Stoper.csproj|solutionrelative:stoper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D4FF71-2719-CF9D-6C87-AB73E6570BF0}|Stoper\\Stoper.csproj|e:\\chocholski\\chocholski2026\\12pracherkulesa\\wpf\\zadanie11\\stoper\\stoper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7D4FF71-2719-CF9D-6C87-AB73E6570BF0}|Stoper\\Stoper.csproj|solutionrelative:stoper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie11\\Stoper\\Stoper\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Stoper\\MainWindow.xaml",
+              "ToolTip": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie11\\Stoper\\Stoper\\MainWindow.xaml",
+              "RelativeToolTip": "Stoper\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T10:39:43.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie11\\Stoper\\Stoper\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Stoper\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Chocholski\\Chocholski2026\\12pracHerkulesa\\wpf\\zadanie11\\Stoper\\Stoper\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Stoper\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T10:39:42.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
